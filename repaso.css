@@ -1,11 +1,13 @@
-nav{
-    
+.navbar-custom{
+    background-color: black;
+    color: rgb(0, 255, 0);
 }
+
 #titulo{
     background-color: rgb(70, 0, 135);
     color: rgb(0, 255, 0);
     width: 500px;
     text-align: center;
     margin: 0 auto;
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Manrope', sans-serif !important;
 }
